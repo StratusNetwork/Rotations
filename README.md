@@ -4,7 +4,7 @@ This repository hosts the rotations for all Stratus Network servers.
 
 ## Contributing
 ### Reporting a Map Bug or Issue
-- Create an **[Issue](https://github.com/StratusNetwork/Map-Rotations/issues)**
+- Create a separate **[Issue](https://github.com/StratusNetwork/Map-Rotations/issues)** for each bug
 - In the title, include the mapname and the issue.
 - In the description, provide video/screenshot information, or explain how to reproduce the issue
 
