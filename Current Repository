@@ -1,14 +1,16 @@
-Updated 9th Febuary 2017
+Updated 20th Febuary 2017
 
 /root/PGM/Server/PGM/maps/Xion
 /root/PGM/Server/PGM/maps/wooly_woods
 /root/PGM/Server/PGM/maps/Woodlands
 /root/PGM/Server/PGM/maps/wits2
 /root/PGM/Server/PGM/maps/Wits End
+/root/PGM/Server/PGM/maps/Wit's Ending
 /root/PGM/Server/PGM/maps/wit_s_end
 /root/PGM/Server/PGM/maps/winterhold
 /root/PGM/Server/PGM/maps/Winter Wakening
 /root/PGM/Server/PGM/maps/welcome_to_wool_square
+/root/PGM/Server/PGM/maps/Water Drop
 /root/PGM/Server/PGM/maps/warlock
 /root/PGM/Server/PGM/maps/wallop_too
 /root/PGM/Server/PGM/maps/wallop
@@ -23,6 +25,7 @@ Updated 9th Febuary 2017
 /root/PGM/Server/PGM/maps/undead_heat
 /root/PGM/Server/PGM/maps/twisted
 /root/PGM/Server/PGM/maps/tree_of_life
+/root/PGM/Server/PGM/maps/Trail Mix
 /root/PGM/Server/PGM/maps/Townside
 /root/PGM/Server/PGM/maps/Toss Up 5x5
 /root/PGM/Server/PGM/maps/Titan
@@ -37,6 +40,7 @@ Updated 9th Febuary 2017
 /root/PGM/Server/PGM/maps/The Tropics V1.0
 /root/PGM/Server/PGM/maps/temple_valley
 /root/PGM/Server/PGM/maps/tebulas
+/root/PGM/Server/PGM/maps/TAR Gingerbread Land 2
 /root/PGM/Server/PGM/maps/sweet_tooth
 /root/PGM/Server/PGM/maps/swamped
 /root/PGM/Server/PGM/maps/sugar_cane_valley
@@ -73,6 +77,7 @@ Updated 9th Febuary 2017
 /root/PGM/Server/PGM/maps/retaliation_2
 /root/PGM/Server/PGM/maps/retaliation
 /root/PGM/Server/PGM/maps/Ranch
+/root/PGM/Server/PGM/maps/Quench
 /root/PGM/Server/PGM/maps/Quarry
 /root/PGM/Server/PGM/maps/prevagen
 /root/PGM/Server/PGM/maps/pompeii_5x5
@@ -99,6 +104,7 @@ Updated 9th Febuary 2017
 /root/PGM/Server/PGM/maps/Muddy Paths
 /root/PGM/Server/PGM/maps/mini_drought
 /root/PGM/Server/PGM/maps/Mini Drought
+/root/PGM/Server/PGM/maps/Midnight Picnic
 /root/PGM/Server/PGM/maps/mesa_5x5
 /root/PGM/Server/PGM/maps/mayan_apocalypse
 /root/PGM/Server/PGM/maps/masarin_ii
@@ -112,6 +118,7 @@ Updated 9th Febuary 2017
 /root/PGM/Server/PGM/maps/lazer_tag_facility
 /root/PGM/Server/PGM/maps/Last Overcastian
 /root/PGM/Server/PGM/maps/kytriak_te
+/root/PGM/Server/PGM/maps/Kaskai KotH
 /root/PGM/Server/PGM/maps/jungle_beat
 /root/PGM/Server/PGM/maps/infiltrate
 /root/PGM/Server/PGM/maps/Include
@@ -119,12 +126,15 @@ Updated 9th Febuary 2017
 /root/PGM/Server/PGM/maps/Hype Train
 /root/PGM/Server/PGM/maps/History Rush Map
 /root/PGM/Server/PGM/maps/Hillcity
+/root/PGM/Server/PGM/maps/Hallcrest
 /root/PGM/Server/PGM/maps/halfway_home
 /root/PGM/Server/PGM/maps/Guarded Coast Elytra 5x5
+/root/PGM/Server/PGM/maps/Grande DTM
 /root/PGM/Server/PGM/maps/grand_tournament_ii
 /root/PGM/Server/PGM/maps/grand_tournament
 /root/PGM/Server/PGM/maps/golden_drought_te
 /root/PGM/Server/PGM/maps/golden_drought_iv
+/root/PGM/Server/PGM/maps/golden_drought_iii_v
 /root/PGM/Server/PGM/maps/golden_drought_iii_te
 /root/PGM/Server/PGM/maps/golden_drought_iii
 /root/PGM/Server/PGM/maps/Golden Drought III
@@ -142,6 +152,7 @@ Updated 9th Febuary 2017
 /root/PGM/Server/PGM/maps/Fractal Descent TE
 /root/PGM/Server/PGM/maps/Fractal Descent
 /root/PGM/Server/PGM/maps/foundry
+/root/PGM/Server/PGM/maps/Fort Aqua
 /root/PGM/Server/PGM/maps/flush
 /root/PGM/Server/PGM/maps/festive_village
 /root/PGM/Server/PGM/maps/Fallout
@@ -163,6 +174,7 @@ Updated 9th Febuary 2017
 /root/PGM/Server/PGM/maps/dirsty
 /root/PGM/Server/PGM/maps/desert_country
 /root/PGM/Server/PGM/maps/deepwind_jungle
+/root/PGM/Server/PGM/maps/Deepwind Redux
 /root/PGM/Server/PGM/maps/dead_heat
 /root/PGM/Server/PGM/maps/crossfire
 /root/PGM/Server/PGM/maps/crenel_halloween
@@ -211,6 +223,9 @@ Updated 9th Febuary 2017
 /root/PGM/Server/PGM/maps/Artemis
 /root/PGM/Server/PGM/maps/arodisae
 /root/PGM/Server/PGM/maps/araxa
+/root/PGM/Server/PGM/maps/Arabian Nightmare
+/root/PGM/Server/PGM/maps/aquealibrius
+/root/PGM/Server/PGM/maps/Amazing Race
 /root/PGM/Server/PGM/maps/Alpine Mining
 /root/PGM/Server/PGM/maps/Alley
 /root/PGM/Server/PGM/maps/agrostid
