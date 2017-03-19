@@ -1,6 +1,6 @@
 # Stratus Network Map Rotations
 
-This repository hosts the rotation information for all Stratus Network servers. It is also used as a **Map Issue Tracker** and **Submission System**
+This repository hosts the rotation information for all Stratus Network servers. It is also used as a **Map Issue Tracker** and **Temporary Submission System**
 
 ## Contributing
 ### Reporting a Map Bug or Issue
@@ -11,7 +11,7 @@ This repository hosts the rotation information for all Stratus Network servers. 
 ### Suggesting a Rotation Change
 - Create an **[Issue](https://github.com/StratusNetwork/Map-Rotations/issues)**
 - Explain what maps you would like to be added/removed and why. Provide good reasons
-- If you support someone's change, react with a 👍. Do not add comments such as "this" or "+1"
+- If you support someone's change, react with a 👍. **Do not** add comments such as "this" or "+1"
 
 ### Submitting a New Map
 - Create an **[Issue](https://github.com/StratusNetwork/Map-Rotations/issues)**
