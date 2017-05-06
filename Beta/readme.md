@@ -6,6 +6,7 @@
 -
 >Thanks to our wonderful Jr. Dev javipepe, we now have dynamic rotations! What this means is that the rot will change depending on how many players are online. No longer will maps be too big or too small for the playercount! This is our current setup for the dynamic rotations:
 
-- Mini: 8v8 - 14v14
-- Medium: 15v15 - 24v24 (activates when 28 players are online, deactivates when less than 28 online)
-- Mega: 25v25+ (activates when 46 players are online, deactivates when less than 46 are online)
+- Micro: 10v10 to 14v14
+- Mini: 16v16 to 20v20 | activates at 26 players
+- Medium: 22v22 to 32v32 | activates at 40 players
+- Mega: 32v32+ | activates at 58 players
