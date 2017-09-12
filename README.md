@@ -10,11 +10,4 @@ This repository hosts the rotation information for all Stratus Network servers. 
 - If you support someone's change, react with a 👍. **Do not** add comments such as "this" or "+1"
 
 ### Submitting a New Map
-- Create an **[Issue](https://github.com/StratusNetwork/Map-Rotations/issues)**
-- In the title, include the gamemode in square brackets and the map title. Example: **[DTC] Mapname**
-- In the description, include:
- - A link to an album of screenshots (preferably imgur)
- - A **[Packaged Download](http://docs.oc.tc/guides/packaging/cleaning_files)** on **Dropbox** or **Google Drive** (If you would like your map to remain private, skip this step)
-- A brief description of your map
-
-**Note:** *The use of Mediafire is prohibited*
+Map submissions will now be handled on the [Stratus Forums](http://stratus.network/forums) under the [Map Submissions](http://stratus.network/forums/59ac44b7a2e3a9000100004b) category. For more information about the submission process, please refer to [this thread](http://stratus.network/forums/topics/59b65e03659e9300010001c7).
